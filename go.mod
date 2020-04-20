@@ -1,3 +1,3 @@
-module github.com/ahuigo/go-cli-demo1
+module github.com/ahuigo/go-cli-demo
 
 go 1.12
