@@ -12,7 +12,7 @@ var (
 )
 
 func init() {
- flag.StringVarP(&user, "user", "u", "", "Search Users")
+ flag.StringVarP(&user, "user", "u", "", "Search Users(0.0.2)")
 }
 
 func main() {
